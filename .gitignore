@@ -1,0 +1,4 @@
+.env
+github_repos.xlsx
+venv/
+~$github_repos.xlsx
